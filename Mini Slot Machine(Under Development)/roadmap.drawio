@@ -1,0 +1,97 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="JbNVZYbKpMP6zDXHsWZC">
+    <mxGraphModel dx="601" dy="388" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IILNktNbGOESPAvCNqsr-7" value="Mini Slot Machine" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+          <mxGeometry x="380.5" y="110" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IILNktNbGOESPAvCNqsr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" parent="1" source="IILNktNbGOESPAvCNqsr-9" target="IILNktNbGOESPAvCNqsr-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IILNktNbGOESPAvCNqsr-9" value="User Input" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+          <mxGeometry x="379" y="260" width="92" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IILNktNbGOESPAvCNqsr-11" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=27.33;direction=south;notch=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+          <mxGeometry x="413" y="200" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IILNktNbGOESPAvCNqsr-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" parent="1" source="IILNktNbGOESPAvCNqsr-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IILNktNbGOESPAvCNqsr-21" value="Gather the deposit amount of the user" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=9;size=10;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+          <mxGeometry x="376" y="330" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IILNktNbGOESPAvCNqsr-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=27.33;direction=south;notch=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+          <mxGeometry x="540.5" y="420" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IILNktNbGOESPAvCNqsr-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" parent="1" source="IILNktNbGOESPAvCNqsr-27" target="IILNktNbGOESPAvCNqsr-30" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="553" y="520" />
+              <mxPoint x="496" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39Xx2BZIYKh14clLkXbT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="IILNktNbGOESPAvCNqsr-27" target="39Xx2BZIYKh14clLkXbT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39Xx2BZIYKh14clLkXbT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="IILNktNbGOESPAvCNqsr-27" target="IILNktNbGOESPAvCNqsr-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39Xx2BZIYKh14clLkXbT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" edge="1" parent="1" source="IILNktNbGOESPAvCNqsr-27" target="39Xx2BZIYKh14clLkXbT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39Xx2BZIYKh14clLkXbT-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IILNktNbGOESPAvCNqsr-27" target="39Xx2BZIYKh14clLkXbT-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="553" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IILNktNbGOESPAvCNqsr-27" value="Algorithm" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+          <mxGeometry x="507" y="470" width="92" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IILNktNbGOESPAvCNqsr-30" value="Randomize the roll [A, B, C]" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=9;size=10;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+          <mxGeometry x="450.5" y="535" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IILNktNbGOESPAvCNqsr-35" value="Check for balance" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=9;size=10;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+          <mxGeometry x="504" y="390" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IILNktNbGOESPAvCNqsr-39" value="Calculate how much is the winning bet" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=9;size=10;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="590" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IILNktNbGOESPAvCNqsr-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#DDA15E;fontColor=default;" parent="1" source="IILNktNbGOESPAvCNqsr-41" target="IILNktNbGOESPAvCNqsr-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IILNktNbGOESPAvCNqsr-41" value="Ask how much to bet" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=9;size=10;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+          <mxGeometry x="380.5" y="390" width="106" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IILNktNbGOESPAvCNqsr-54" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=27.33;direction=south;notch=0;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+          <mxGeometry x="540.5" y="660" width="25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="39Xx2BZIYKh14clLkXbT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#DDA15E;fontColor=#FEFAE0;fillColor=#BC6C25;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IILNktNbGOESPAvCNqsr-55" target="IILNktNbGOESPAvCNqsr-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="730" />
+              <mxPoint x="320" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IILNktNbGOESPAvCNqsr-55" value="From the start" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" parent="1" vertex="1">
+          <mxGeometry x="487" y="710" width="113" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39Xx2BZIYKh14clLkXbT-2" value="Winning spin calculation" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=9;size=10;direction=west;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="535" width="120.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="39Xx2BZIYKh14clLkXbT-10" value="Update the balance" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=9;size=10;direction=east;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="404.75" y="630" width="120.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="39Xx2BZIYKh14clLkXbT-22" value="Deduct the spin fee from the balance" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=9;size=10;labelBackgroundColor=none;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="575.25" y="600" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
